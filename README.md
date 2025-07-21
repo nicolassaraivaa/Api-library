@@ -19,8 +19,8 @@ API RESTful para gerenciamento de livros e autores, desenvolvida com **Node.js**
 
 1. ##  Clone o repositório:
    ```bash
-   gh repo clone nicolassaraivaa/filmes-ghibi-main
-   cd filmes-ghibi-main
+   gh repo clone nicolassaraivaa/Api-library
+   cd Api-library
 
 2. ## Instale as dependências:
    ```bash
